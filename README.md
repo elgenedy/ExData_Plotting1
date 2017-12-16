@@ -1,3 +1,17 @@
+## Note to Reviewer
+
+When reviewing project, please note that, in plots 2, 3 and 4, the x axis (representing time) is in portuguese:
+
+* <>bQui</b>, is the abbreviation for Quinta-Feira, which translates to Thursday
+* <>bSex</b>, is the abbreviation for Sexta-Feira, which translates to Friday
+* <>bSáb</b>, is the abbreviation for Sábado, which translates to Saturday
+
+Thank you :)
+
+
+***
+
+
 ## Introduction
 
 This assignment uses data from
